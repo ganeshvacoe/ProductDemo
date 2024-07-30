@@ -1,0 +1,35 @@
+h2{
+    color: blue;
+    font-size: 50px;
+    border-radius: 25px ;
+    height : 20px;
+    width:500x
+}
+.mobileProduct{
+    background-color: aquamarine;
+    padding: 40px;
+    margin: 30px;
+    border: 5px solid rebeccapurple;
+    height: 270px;
+    width:200px;
+    border-radius: 50px;
+}
+.productImg{
+display: block;
+margin: 10px auto;
+border-radius: 30px;
+}
+
+.cartButton{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: orangered solid;
+    display: block;
+}
+
+.imgProduct{
+    height: 150px;
+    width: 230;
+    border-radius: 10px;
+}
